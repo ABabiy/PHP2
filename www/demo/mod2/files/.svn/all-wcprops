@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/php2/!svn/ver/2/demo/mod2/files
+END
+readdir1.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/php2/!svn/ver/2/demo/mod2/files/readdir1.php
+END
+file_get_contents.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/php2/!svn/ver/2/demo/mod2/files/file_get_contents.php
+END
+fgetss.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/php2/!svn/ver/2/demo/mod2/files/fgetss.php
+END
+readdir2.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/php2/!svn/ver/2/demo/mod2/files/readdir2.php
+END
+fputs.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/php2/!svn/ver/2/demo/mod2/files/fputs.php
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/php2/!svn/ver/2/demo/mod2/files/data.txt
+END
+time-server.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/php2/!svn/ver/2/demo/mod2/files/time-server.php
+END
+fopen.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/php2/!svn/ver/2/demo/mod2/files/fopen.php
+END
+fgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/php2/!svn/ver/2/demo/mod2/files/fgets.php
+END
+time-client.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/php2/!svn/ver/2/demo/mod2/files/time-client.php
+END
+newdata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/php2/!svn/ver/2/demo/mod2/files/newdata.txt
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/php2/!svn/ver/2/demo/mod2/files/file.php
+END
+fread.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/php2/!svn/ver/2/demo/mod2/files/fread.php
+END
+show-html.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/php2/!svn/ver/2/demo/mod2/files/show-html.php
+END
+file_put_contents.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/php2/!svn/ver/2/demo/mod2/files/file_put_contents.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/php2/!svn/ver/2/demo/mod2/files/upload.php
+END
+data.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/php2/!svn/ver/2/demo/mod2/files/data.html
+END
+fgetc.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/php2/!svn/ver/2/demo/mod2/files/fgetc.php
+END

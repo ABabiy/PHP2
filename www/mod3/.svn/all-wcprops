@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/php2/!svn/ver/1/mod3
+END
+db.txt
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/php2/!svn/ver/1/mod3/db.txt
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/php2/!svn/ver/1/mod3/db.php
+END
+web.sql
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/php2/!svn/ver/1/mod3/web.sql
+END

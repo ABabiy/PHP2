@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/php2/!svn/ver/2/eshop
+END
+basket.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/php2/!svn/ver/2/eshop/basket.php
+END
+catalog.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/php2/!svn/ver/2/eshop/catalog.php
+END
+saveorder.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/php2/!svn/ver/2/eshop/saveorder.php
+END
+eshop_db.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/php2/!svn/ver/2/eshop/eshop_db.inc.php
+END
+eshop_lib.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/php2/!svn/ver/2/eshop/eshop_lib.inc.php
+END
+delete_from_basket.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/php2/!svn/ver/2/eshop/delete_from_basket.php
+END
+orders.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/php2/!svn/ver/2/eshop/orders.php
+END
+orderform.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/php2/!svn/ver/2/eshop/orderform.php
+END
+add2cat.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/php2/!svn/ver/2/eshop/add2cat.php
+END
+add2basket.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/php2/!svn/ver/2/eshop/add2basket.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/php2/!svn/ver/2/eshop/.htaccess
+END
+create_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/php2/!svn/ver/2/eshop/create_db.php
+END
+orders.log
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/php2/!svn/ver/2/eshop/orders.log
+END
+save2cat.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/php2/!svn/ver/2/eshop/save2cat.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/php2/!svn/ver/2/demo/mod2/sessions
+END
+session_destroy.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/php2/!svn/ver/2/demo/mod2/sessions/session_destroy.php
+END
+session-1.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/php2/!svn/ver/2/demo/mod2/sessions/session-1.php
+END
+session-2.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/php2/!svn/ver/2/demo/mod2/sessions/session-2.php
+END

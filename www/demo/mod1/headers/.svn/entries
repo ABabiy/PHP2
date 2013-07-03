@@ -1,0 +1,43 @@
+10
+
+dir
+2
+http://pc:88/svn/php2/demo/mod1/headers
+http://pc:88/svn/php2
+
+
+
+2013-06-26T20:47:20.665798Z
+2
+user
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+7af9dd6a-4ca1-ae47-9a7e-929a1ffcaf00
+
+basic-auth
+dir
+
+cache-control
+dir
+
+location
+dir
+
+content-type
+dir
+
+refresh
+dir
+

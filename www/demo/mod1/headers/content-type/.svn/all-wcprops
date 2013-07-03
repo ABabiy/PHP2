@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/php2/!svn/ver/2/demo/mod1/headers/content-type
+END
+charset.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/php2/!svn/ver/2/demo/mod1/headers/content-type/charset.php
+END
+rtf.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/php2/!svn/ver/2/demo/mod1/headers/content-type/rtf.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/php2/!svn/ver/2/demo/mod1/headers/content-type/file.php
+END
+text-xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/php2/!svn/ver/2/demo/mod1/headers/content-type/text-xml.php
+END
